@@ -18,7 +18,7 @@
     "contentz": "3.14.1"
   },
   "devDependencies": {
-    "concurrently": "4.1.0",
+    "concurrently": "4.1.1",
     "husky": "2.4.1",
     "lint-staged": "8.2.1",
     "serve": "11.0.2",
